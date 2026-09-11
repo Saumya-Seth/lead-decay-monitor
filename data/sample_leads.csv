@@ -1,0 +1,41 @@
+id,name,email,company,source,engagement_score,last_touch_date,owner_rep_id
+lead_001,Ananya Rao,ananya.rao@bluefield.example,Bluefield Systems,demo_request,22,2026-09-11,rep_001
+lead_002,Vikram Shah,vikram.shah@norstar.example,Norstar Robotics,demo_request,35,2026-09-11,rep_002
+lead_003,Priya Nair,priya.nair@havenridge.example,Haven Ridge Health,demo_request,48,2026-09-11,rep_003
+lead_004,Rohan Mehta,rohan.mehta@cedarwood.example,Cedarwood Logistics,demo_request,55,2026-09-11,rep_001
+lead_005,Kavya Iyer,kavya.iyer@pinegate.example,Pinegate Legal,demo_request,62,2026-09-10,rep_002
+lead_006,Arjun Desai,arjun.desai@wrenfield.example,Wrenfield Security,demo_request,70,2026-09-09,rep_003
+lead_007,Sneha Kapoor,sneha.kapoor@larkspur.example,Larkspur Analytics,demo_request,78,2026-09-07,rep_001
+lead_008,Karthik Reddy,karthik.reddy@thornbury.example,Thornbury Freight,demo_request,85,2026-09-05,rep_002
+lead_009,Meera Joshi,meera.joshi@millbrook.example,Millbrook Cloud,pricing_page,40,2026-09-11,rep_004
+lead_010,Aditya Kumar,aditya.kumar@oakhaven.example,Oakhaven Robotics,pricing_page,58,2026-09-11,rep_005
+lead_011,Ishita Singh,ishita.singh@bluefield.example,Bluefield Systems,pricing_page,22,2026-09-11,rep_004
+lead_012,Nikhil Verma,nikhil.verma@norstar.example,Norstar Robotics,pricing_page,35,2026-09-11,rep_005
+lead_013,Tanya Malhotra,tanya.malhotra@havenridge.example,Haven Ridge Health,pricing_page,48,2026-09-09,rep_004
+lead_014,Devansh Patel,devansh.patel@cedarwood.example,Cedarwood Logistics,pricing_page,55,2026-09-08,rep_005
+lead_015,Riya Chawla,riya.chawla@pinegate.example,Pinegate Legal,pricing_page,62,2026-09-07,rep_004
+lead_016,Aryan Bose,aryan.bose@wrenfield.example,Wrenfield Security,pricing_page,70,2026-09-05,rep_005
+lead_017,Simran Kaur,simran.kaur@larkspur.example,Larkspur Analytics,webinar_attendee,78,2026-09-11,rep_006
+lead_018,Yash Trivedi,yash.trivedi@thornbury.example,Thornbury Freight,webinar_attendee,85,2026-09-11,rep_007
+lead_019,Neha Bhat,neha.bhat@millbrook.example,Millbrook Cloud,webinar_attendee,40,2026-09-10,rep_006
+lead_020,Rahul Menon,rahul.menon@oakhaven.example,Oakhaven Robotics,webinar_attendee,58,2026-09-10,rep_007
+lead_021,Divya Pillai,divya.pillai@bluefield.example,Bluefield Systems,webinar_attendee,22,2026-09-08,rep_006
+lead_022,Sameer Khan,sameer.khan@norstar.example,Norstar Robotics,webinar_attendee,35,2026-09-05,rep_007
+lead_023,Ananya Ghosh,ananya.ghosh@havenridge.example,Haven Ridge Health,webinar_attendee,48,2026-09-04,rep_006
+lead_024,Varun Chopra,varun.chopra@cedarwood.example,Cedarwood Logistics,webinar_attendee,55,2026-08-31,rep_007
+lead_025,Pooja Agarwal,pooja.agarwal@pinegate.example,Pinegate Legal,content_download,62,2026-09-11,rep_008
+lead_026,Siddharth Rao,siddharth.rao@wrenfield.example,Wrenfield Security,content_download,70,2026-09-10,rep_009
+lead_027,Alisha Fernandes,alisha.fernandes@larkspur.example,Larkspur Analytics,content_download,78,2026-09-09,rep_008
+lead_028,Manav Sethi,manav.sethi@thornbury.example,Thornbury Freight,content_download,85,2026-09-07,rep_009
+lead_029,Tara Saxena,tara.saxena@millbrook.example,Millbrook Cloud,content_download,40,2026-09-06,rep_008
+lead_030,Kabir Ahluwalia,kabir.ahluwalia@oakhaven.example,Oakhaven Robotics,content_download,58,2026-09-03,rep_009
+lead_031,Nandini Rao,nandini.rao@bluefield.example,Bluefield Systems,content_download,22,2026-09-02,rep_008
+lead_032,Harshad Pillai,harshad.pillai@norstar.example,Norstar Robotics,content_download,35,2026-08-27,rep_009
+lead_033,Zara Khan,zara.khan@havenridge.example,Haven Ridge Health,newsletter_signup,48,2026-09-10,rep_010
+lead_034,Om Prakash,om.prakash@cedarwood.example,Cedarwood Logistics,newsletter_signup,55,2026-09-08,rep_001
+lead_035,Leela Krishnan,leela.krishnan@pinegate.example,Pinegate Legal,newsletter_signup,62,2026-09-06,rep_010
+lead_036,Farhan Ali,farhan.ali@wrenfield.example,Wrenfield Security,newsletter_signup,70,2026-09-01,rep_001
+lead_037,Gauri Deshpande,gauri.deshpande@larkspur.example,Larkspur Analytics,newsletter_signup,78,2026-08-25,rep_010
+lead_038,Imran Sheikh,imran.sheikh@thornbury.example,Thornbury Freight,newsletter_signup,85,2026-08-22,rep_001
+lead_039,Ritika Bansal,ritika.bansal@millbrook.example,Millbrook Cloud,newsletter_signup,40,2026-08-12,rep_010
+lead_040,Vivaan Oberoi,vivaan.oberoi@oakhaven.example,Oakhaven Robotics,newsletter_signup,58,2026-07-28,rep_001
